@@ -1,4 +1,4 @@
-# -i-ek-i-sitesi
+# cicekci-sitesi
 -çiçekler
     -çiçek_id , çiçek_adı , çiçek_renk
 -vazolar
