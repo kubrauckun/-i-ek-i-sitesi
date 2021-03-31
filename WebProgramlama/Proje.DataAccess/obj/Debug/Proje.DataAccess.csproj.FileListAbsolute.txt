@@ -1,0 +1,6 @@
+C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll
+C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.pdb
+C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csprojAssemblyReference.cache
+C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
+C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb
