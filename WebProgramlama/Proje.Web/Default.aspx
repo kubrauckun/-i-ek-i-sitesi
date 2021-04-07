@@ -39,7 +39,7 @@
 
      <!-- loader  -->
       <div class="loader_bg">
-         <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+        <!-- <div class="loader"><img src="images/loading.gif" alt="#" /></div> -->
       </div>
       <!-- end loader -->
       <!-- header -->
@@ -350,7 +350,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Contact Us</h2>
+                     <h2>Randevu Oluşturun</h2>
                   </div>
                </div>
             </div>
@@ -373,6 +373,24 @@
                                  <textarea class="textarea>" placeholder="Message" type="text" name="Message"></textarea>
                               </div>
                               <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                              <formview id="formm1" style="color:#FFFF00; " >
+                              <input type="checkbox" name="secim1"  checked > papatya <br>
+                                  
+                              <input type="checkbox" name="secim2"> gül  <br>
+                                  
+                              <input type="checkbox" name="secim3"> menekşe <br>
+                                  
+                              <input type="checkbox" name="secim4"> sümbül <br>
+                                  
+                              <input type="checkbox" name="secim5"> lale  <br>
+                                  
+                              <input type="checkbox" name="secim6"> orkide  <br>
+                               
+                              </formview>
+                              
+                              
+                              </div>
+                              <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                  <a href="#">Read More</a>
                               </div>
                            </div>
@@ -390,7 +408,7 @@
                      <figure>
                         <img src="/Tasarım/images/contactimg.jpg" alt="img"/>
                         <div class="text-box">
-                           <h3>Best Green Nursery</h3>
+                           <h3>En Güzel Çiçekler En Değerli İnsana Gitmeyi Bekliyor</h3>
                         </div>
                      </figure>
                   </div>
@@ -407,8 +425,8 @@
                   <div class="col-md-12 ">
                      <div class="footer-box">
                         <div class="headinga">
-                           <h3>Address</h3>
-                           <span>Demo Store .New York  United States</span>
+                           <h3>Adres</h3>
+                           <span>Çiçek Caddesi Papatya Yolu No:1 İSTANBUL</span>
                            <p>(+71 98765348)</p>
                         </div>
                         <ul class="location_icon">
@@ -423,6 +441,7 @@
                               <li> <a href="#">Hakkımızda</a></li>
                               <li> <a href="#"> Çiçeklerimiz</a></li>
                               <li> <a href="#">Aksesuarlar</a></li>
+                              
                               <li> <a href="#"> Randevu Oluşturma</a></li>
                            </ul>
                         </div>
