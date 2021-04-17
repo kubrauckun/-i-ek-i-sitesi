@@ -11,7 +11,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Greeno</title>
+      <title>Çiçek</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -51,7 +51,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                      <div class="full">
                         <div class="center-desk">
-                           <div class="logo"> <a href="index.html"><img src="/Tasarım/images/logo.png" alt="#"></a> </div>
+                           <!--<div class="logo"> <a href="index.html"><img src="/Tasarım/images/logo.png" alt="#"></a> </div> -->
                         </div>
                      </div>
                   </div>
@@ -65,7 +65,7 @@
                                  <li><a href="#plant">Çiçeklerimiz</a></li>
                                  <li><a href="#gallery">Aksesuarlar</a></li>
                                  <li><a href="#contact">Randevu</a></li>
-                                 <li class="last"><a href="#"><img src="/Tasarım/images/search_icon.png" alt="icon"/></a></li>
+                                 <!--li class="last"><a href="#"><img src="/Tasarım/images/search_icon.png" alt="icon"/></a></li-->
                               </ul>
                            </nav>
                         </div>
@@ -109,10 +109,10 @@
                      <div class="row marginii">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="carousel-caption ">
-                              <h1>Welcome To The <strong class="color">Nutrients Plants</strong></h1>
-                              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using</p>
+                              <h1> <strong class="color">En değerli şey zamandır.</strong></h1>
+                              <p>Sen de sevdiklerin için zaman ayırıp  çiçeğini kendin hazırlamak ister misin?</p>
                               <a class="btn btn-lg btn-primary" href="#" role="button">Hakkımızda</a>
-                              <a class="btn btn-lg btn-primary" href="#" role="button">Contact US</a>
+                              <a class="btn btn-lg btn-primary" href="#" role="button">Randevu Oluşturun</a>
                            </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -128,10 +128,10 @@
                      <div class="row marginii">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                            <div class="carousel-caption ">
-                              <h1>Welcome To The <strong class="color">Nutrients Plants</strong></h1>
-                              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using</p>
-                              <a class="btn btn-lg btn-primary" href="#" role="button">About</a>
-                              <a class="btn btn-lg btn-primary" href="#" role="button">Contact US</a>
+                              <h1> <strong class="color">Mis kokan çiçeklerin arasından sevdiklerin için çiçek toplamak ister misin?</strong></h1>
+                              <p>Çiçek bahçemizde sizleri ağırlamayı ve en güzel çiçekleri yaratmanızda yardımcı olmayı çok isteriz.</p>
+                              <a class="btn btn-lg btn-primary" href="#" role="button">Hakkımızda</a>
+                              <a class="btn btn-lg btn-primary" href="#" role="button">Randevu Oluşturun</a>
                            </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -262,7 +262,7 @@
          <div class="row">
             <div class="col-md-12">
                <div class="titlepage">
-                  <h2>Our Gallery </h2>
+                  <h2> Aksesuarlarımız </h2>
                </div>
             </div>
          </div>
@@ -272,11 +272,11 @@
             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
                <div class="Gallery-box">
                   <figure>
-                     <a href="/Tasarım/images/1.jpg" class="fancybox" rel="ligthbox">
-                     <img  src="/Tasarım/images/1.jpg" class="zoom img-fluid "  alt="">
+                     <a href="/Tasarım/images/vazo1.jpg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo1.jpg" class="zoom img-fluid "  alt="">
                      </a>
                      <span class="hoverle">
-                     <a href="/Tasarım/images/1.jpg" class="fancybox" rel="ligthbox">View</a>
+                     <a href="/Tasarım/images/vazo1.jpg" class="fancybox" rel="ligthbox">View</a>
                      </span>  
                   </figure>
                </div>
@@ -284,23 +284,11 @@
             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
                <div class="Gallery-box">
                   <figure>
-                     <a href="/Tasarım/images/2.jpg" class="fancybox" rel="ligthbox">
-                     <img  src="/Tasarım/images/2.jpg" class="zoom img-fluid "  alt="">
+                     <a href="/Tasarım/images/vazo2.jpg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo2.jpg" class="zoom img-fluid "  alt="">
                      </a>
                      <span class="hoverle">
-                     <a href="/Tasarım/images/1.jpg" class="fancybox" rel="ligthbox">View</a>
-                     </span>
-                  </figure>
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 thumb">
-               <div class="Gallery-box">
-                  <figure>
-                     <a href="/Tasarım/images/3.jpg" class="fancybox" rel="ligthbox">
-                     <img  src="/Tasarım/images/3.jpg" class="zoom img-fluid "  alt="">
-                     </a>
-                     <span class="hoverle">
-                     <a href="/Tasarım/images/3.jpg" class="fancybox" rel="ligthbox">View</a>
+                     <a href="/Tasarım/images/vazo2jpg" class="fancybox" rel="ligthbox">View</a>
                      </span>
                   </figure>
                </div>
@@ -308,11 +296,35 @@
             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
                <div class="Gallery-box">
                   <figure>
-                     <a href="/Tasarım/images/4.jpg" class="fancybox" rel="ligthbox">
-                     <img  src="/Tasarım/images/4.jpg" class="zoom img-fluid "  alt="">
+                     <a href="/Tasarım/images/vazo6.jpg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo6.jpg" class="zoom img-fluid "  alt="">
                      </a>
                      <span class="hoverle">
-                     <a href="/Tasarım/images/4.jpg" class="fancybox" rel="ligthbox">View</a>
+                     <a href="/Tasarım/images/vazo6.jpg" class="fancybox" rel="ligthbox">View</a>
+                     </span>
+                  </figure>
+               </div>
+            </div>
+              <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
+               <div class="Gallery-box">
+                  <figure>
+                     <a href="/Tasarım/images/vazo6.jpg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo6.jpg" class="zoom img-fluid "  alt="">
+                     </a>
+                     <span class="hoverle">
+                     <a href="/Tasarım/images/vazo6.jpg" class="fancybox" rel="ligthbox">View</a>
+                     </span>
+                  </figure>
+               </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
+               <div class="Gallery-box">
+                  <figure>
+                     <a href="/Tasarım/images/vazo4.jpg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo4.jpg" class="zoom img-fluid "  alt="">
+                     </a>
+                     <span class="hoverle">
+                     <a href="/Tasarım/images/vazo4.jpg" class="fancybox" rel="ligthbox">View</a>
                      </span> 
                   </figure>
                </div>
@@ -320,23 +332,35 @@
             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
                <div class="Gallery-box">
                   <figure>
-                     <a href="/Tasarım/images/5.jpg" class="fancybox" rel="ligthbox">
-                     <img  src="/Tasarım/images/5.jpg" class="zoom img-fluid "  alt="">
+                     <a href="/Tasarım/images/vazo3.jpeg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo3.jpeg" class="zoom img-fluid "  alt="">
                      </a>
                      <span class="hoverle">
-                     <a href="/Tasarım/images/5.jpg" class="fancybox" rel="ligthbox">View</a>
+                     <a href="/Tasarım/images/vazo3.jpeg" class="fancybox" rel="ligthbox">View</a>
                      </span> 
                   </figure>
                </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
                <div class="Gallery-box">
                   <figure>
-                     <a href="/Tasarım/images/6.jpg" class="fancybox" rel="ligthbox">
-                     <img  src="/Tasarım/images/6.jpg" class="zoom img-fluid "  alt="">
+                     <a href="/Tasarım/images/vazo3.jpeg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo3.jpeg" class="zoom img-fluid "  alt="">
                      </a>
                      <span class="hoverle">
-                     <a href="/Tasarım/images/6.jpg" class="fancybox" rel="ligthbox">View</a>
+                     <a href="/Tasarım/images/vazo3.jpeg" class="fancybox" rel="ligthbox">View</a>
+                     </span> 
+                  </figure>
+               </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 thumb">
+               <div class="Gallery-box">
+                  <figure>
+                     <a href="/Tasarım/images/vazo7.jpg" class="fancybox" rel="ligthbox">
+                     <img  src="/Tasarım/images/vazo7.jpg" class="zoom img-fluid "  alt="">
+                     </a>
+                     <span class="hoverle">
+                     <a href="/Tasarım/images/vazo7.jpg" class="fancybox" rel="ligthbox">View</a>
                      </span>
                   </figure>
                </div>
@@ -391,7 +415,7 @@
                               
                               </div>
                               <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                 <a href="#">Read More</a>
+                                 <a href="#">Sipariş ver</a>
                               </div>
                            </div>
                         </form>
