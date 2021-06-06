@@ -4,3 +4,13 @@ C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.Data
 C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
 C:\Users\kubra\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll.config
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.pdb
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.CopyComplete
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.AssemblyReference.cache

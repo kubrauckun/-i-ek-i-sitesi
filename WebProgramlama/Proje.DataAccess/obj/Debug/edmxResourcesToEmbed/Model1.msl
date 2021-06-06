@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="cicekciTablosuModelStoreContainer" CdmEntityContainer="cicekciTablosuEntities">
+    <EntitySetMapping Name="siparisVerileri">
+      <EntityTypeMapping TypeName="cicekciTablosuModel.siparisVerileri">
+        <MappingFragment StoreEntitySet="siparisVerileri">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="adSoyad" ColumnName="adSoyad" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="message" ColumnName="message" />
+          <ScalarProperty Name="cicekTuru" ColumnName="cicekTuru" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

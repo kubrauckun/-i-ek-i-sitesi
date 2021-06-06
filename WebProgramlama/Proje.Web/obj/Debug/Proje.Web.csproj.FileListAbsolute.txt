@@ -119,8 +119,12 @@ C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bi
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\Proje.Business.pdb
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\Proje.DataAccess.pdb
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.csprojAssemblyReference.cache
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.csproj.CoreCompileInputs.cache
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.csproj.CopyComplete
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.dll
 C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.pdb
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\EntityFramework.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\Proje.DataAccess.dll.config
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\EntityFramework.xml
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\bin\Proje.Business.dll.config
+C:\Users\kubra\OneDrive\Belgeler\GitHub\cicek_sitesi\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.csproj.AssemblyReference.cache
